@@ -1,0 +1,2 @@
+104.192.74.18 - - [05/Nov/2019:17:29:10 +0700] "GET /robots.txt HTTP/1.1" 301 162 "http://www.santoaloisius.xyz/robots.txt" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+104.192.74.18 - - [05/Nov/2019:17:29:11 +0700] "GET / HTTP/1.1" 301 162 "http://www.santoaloisius.xyz" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
